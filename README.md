@@ -1,7 +1,7 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)]
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">A passionate learner and developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://dunesfactory.com/wp-content/uploads/2020/04/Dunes_development.gif](https://miro.medium.com/max/1100/0*C-cPP9D2MIyeexAT.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1100/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2404&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2404" /> </p>
 
