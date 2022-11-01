@@ -1,5 +1,5 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
-<h1 align="center">Hi 👋, I'm Rishav</h1>
+<h1 align="center"><i>Hi 👋, I'm Rishav<i></h1>
 <h3 align="center">A passionate learner and developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 
