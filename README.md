@@ -26,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav2404&show_icons=true&locale=en" alt="rishav2404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav2404&" alt="rishav2404" /></p>
+  
+  
+  
+  
+  
+  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=light)](https://quine.sh)v
