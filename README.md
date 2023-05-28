@@ -31,4 +31,4 @@
   
   
   
-  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=light)](https://quine.sh)v
+  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=light)](https://quine.sh)
