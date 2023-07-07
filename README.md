@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JavaScript,MERN Stack**
 
 - 📫 How to reach me **rishavsaha24042003@gmail.com**
 
