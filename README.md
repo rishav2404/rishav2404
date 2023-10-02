@@ -1,13 +1,13 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center"><i>Hi 👋, I'm Rishav<i></h1>
 <h3 align="center">A passionate learner and developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2404&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2404" /> </p>
 
-- 🌱 I’m a **Full Stack Web Developer**
+- 🌱 I’m a **Full Stack Developer**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,MERN Stack**
+- 💬 Ask me about **Android, Kotlin, HTML, CSS, JavaScript,MERN Stack**
 
 - 📫 How to reach me **rishavsaha24042003@gmail.com**
 
@@ -31,4 +31,4 @@
   [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)
   
   
-  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=light)](https://quine.sh)
+  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=dark)](https://quine.sh)
