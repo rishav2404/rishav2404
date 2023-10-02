@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav2404&" alt="rishav2404" /></p>
   
   
-  
+  [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)
   
   
   [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=light)](https://quine.sh)
