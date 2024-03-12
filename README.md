@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **Full Stack Developer**
 
-- 💬 Ask me about **Android, Kotlin, HTML, CSS, JavaScript,MERN Stack**
+- 💬 Ask me about **Android, Kotlin, MERN Stack, JavaScript**
 
 - 📫 How to reach me **rishavsaha24042003@gmail.com**
 
@@ -30,5 +30,3 @@
   
   [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)
   
-  
-  [![rishav2404's GitHub | Languages Over Time](https://stats.quine.sh/rishav2404/languages-over-time?theme=dark)](https://quine.sh)
