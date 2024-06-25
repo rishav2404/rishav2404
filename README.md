@@ -204,6 +204,10 @@
 
 <!-- SNAKE ANIMATION -->
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/rishav2404/rishav2404/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
 
 
 <!-- BUY ME A COFFEE -->
