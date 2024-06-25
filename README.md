@@ -1,6 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<img align="center" alt="Coding" width="100%" src="http://drive.google.com/uc?export=view&id=1yYnQOeI9wr1OlU-X9lS1-pvbPHzce3O-">
 <h1 align="center"><i>Hi 👋, I'm Rishav<i></h1>
 <h3 align="center">Welcome to my workspace !</h3>
+    
+<img align="center" alt="Coding" width="100%" src="http://drive.google.com/uc?export=view&id=1yYnQOeI9wr1OlU-X9lS1-pvbPHzce3O-">
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2404&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2404" /> </p>
@@ -164,7 +167,9 @@
 
 
 <!--ABOUT SECTION WITH SIDE GIFYY-->
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
+
+<img align="right" alt="Coding" width="250" src="http://drive.google.com/uc?export=view&id=1rXSKwkGTWmjUuyh4_UYyxLM_yMVgFjN5">
+
 <h4 align="left">
   🌱 I have extensive experience in:
   <br>
@@ -205,12 +210,14 @@
 <!-- SNAKE ANIMATION -->
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/rishav2404/rishav2404/output/snake.svg" alt="Snake animation" />
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rishav2404/rishav2404/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
 
 
 <!-- BUY ME A COFFEE -->
 <div align="left">
+    <br/>
   <a href="https://buymeacoffee.com/rishav2404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
 </div>
+<img align="center" alt="Coding" width="100%" src="http://drive.google.com/uc?export=view&id=1yYnQOeI9wr1OlU-X9lS1-pvbPHzce3O-">
