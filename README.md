@@ -166,7 +166,7 @@
 <!--ABOUT SECTION WITH SIDE GIFYY-->
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 <h4 align="left">
-  🌱I have extensive experience in:
+  🌱 I have extensive experience in:
   <br>
 
 - Android Development: Crafting seamless native Android applications using Kotlin and Android Studio.
@@ -182,22 +182,22 @@
 - Backend Services
 - System Design
 - Cloud Services
+- Any project ideas
 </h4>
 
 <br clear="both">
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishav2404&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false"
-        height="180" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=rishav2404&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5"
-        height="180" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rishav2404&hide_title=true&layout=compact&card_width=1000&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false"
+        height="200" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=5"
+        height="200" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav2404&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=20&theme=rose_pine&hide_border=false"
-        height="180" alt="languages graph" />
+        height="200" alt="languages graph" />
 </div>
 
 
-<br clear="both">
 
 <!--DIGITAL OCEAN BADGE-->
   <!-- [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)  -->
@@ -212,5 +212,5 @@
 
 <!-- BUY ME A COFFEE -->
 <div align="left">
-  <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="250" ></a>
+  <a href="https://buymeacoffee.com/rishav2404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
 </div>
