@@ -10,10 +10,11 @@
 
 - 🌱 I’m a **Full Stack Engineer**
 
-- 💬 Ask me about **Android, MERN, Backend Services,
-    System Design, Cloud Services**
+- 💬 My fields of work: **MERN Stack, Backend and APIs, Android, Springboot, Cloud Services, GenAI integrations, Devops, Databases**
 
-- 📫 You can reach me at **rishavsaha24042003@gmail.com**. Connect with me on **LinkedIn** or explore more on my **Linktree**.
+- 📫 You can reach me at **rishavsaha24042003@gmail.com**. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/rishav24) or explore more on my [**Linktree**](https://linktr.ee/rishav24).
+
+- [**Resume**](https://drive.google.com/file/d/1-dK0QF7yNvzLdl6fyX0DkP07sTGXgK35/view?usp=drivesdk)
 
 
 <!--Connect with me : - -->
@@ -175,18 +176,18 @@
   <br>
 
 - Android Development: Crafting seamless native Android applications using Kotlin and Android Studio.
-- MERN Stack: Building dynamic web applications with MongoDB, Express.js, React, and Node.js.
+- Web: Building dynamic web applications with MongoDB, Express.js, React, Node.js, Springboot, PostgreSQL, GCP.
 
-- Backend Services: Designing scalable and efficient backend systems.
+- Backend Services: Designing scalable and efficient backend systems and APIs.
 - Cloud Services: Leveraging cloud platforms like Azure and Google Cloud for robust deployments.
 
 💬 Feel free to ask me about:
 
-- Android Apps
-- MERN Stack
-- Backend Services
-- System Design
-- Cloud Services
+- Web Technologies
+- Native Android using Kotlin
+- Java Springboot development
+- Secure and scalable backend systems
+- Cloud Services and GenAI integrations
 - Any project ideas
 </h4>
 
@@ -202,18 +203,14 @@
         height="200" alt="languages graph" />
 </div>
 
-
-
-<!--DIGITAL OCEAN BADGE-->
-  <!-- [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)  -->
-
 <!-- SNAKE ANIMATION -->
 
 <br clear="both">
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rishav2404/rishav2404/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
-
+<!-- Holopine Bades -->
+[![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)
 
 <!-- BUY ME A COFFEE -->
 <div align="left">
