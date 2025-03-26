@@ -191,7 +191,6 @@
 - Any project ideas
 </h4>
 
-<br clear="both">
 
 <!-- GRAPHS -->
 <div align="center">
@@ -199,14 +198,11 @@
         height="200" alt="stats graph" />
             <img src="https://streak-stats.demolab.com/?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=5"
         height="200" alt="streak graph" />
-
 </div>
 
-<!-- SNAKE ANIMATION -->
 
-<br clear="both">
+<!-- SNAKE ANIMATION -->
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/rishav2404/rishav2404/output/snake.svg" alt="Snake animation" />
-<br clear="both">
 
 <!-- Holopine Bades -->
 [![An image of @rishav2404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishav2404)](https://holopin.io/@rishav2404)
