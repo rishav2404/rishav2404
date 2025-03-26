@@ -197,7 +197,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rishav2404&hide_title=true&layout=compact&card_width=1000&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false"
         height="200" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com/?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=5"
+    <img src="https://streak-stats.demolab.com/?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=4"
         height="200" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav2404&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=20&theme=rose_pine&hide_border=false"
         height="200" alt="languages graph" />
