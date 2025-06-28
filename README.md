@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav2404&label=Profile%20views&color=0e75b6&style=flat" alt="rishav2404" /> </p>
 
-- 🌱 I’m a **Full Stack Engineer**
+- 🌱 I’m a **Software Engineer**
 
-- 💬 My fields of work: **MERN Stack, Backend and APIs, Android, Springboot, Cloud Services, GenAI integrations, Devops, Databases**
+- 💬 My fields of work: **MERN Stack, Backend and APIs, Android, FastAPI, Springboot, Cloud Services, GenAI integrations, Devops, Databases**
 
-- 📫 You can reach me at **rishavsaha24042003@gmail.com**. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/rishav24) or explore more on my [**Linktree**](https://linktr.ee/rishav24).
+- 📫 You can reach me at **rishavsaha24042003@gmail.com**. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/rishav24) or explore more on my [**Linktree**](https://linktr.ee/rishav24) and visit my [**Portfolio**](https://rishavsahaa.netlify.app)
 
-- [**Resume**](https://drive.google.com/file/d/1-dK0QF7yNvzLdl6fyX0DkP07sTGXgK35/view?usp=drivesdk)
+- [**Resume**](https://drive.google.com/file/d/1yJO-gtWEIrO9AVTUvIFbG-HgUtSkhSp_/view)
 
 
 <!--Connect with me : - -->
