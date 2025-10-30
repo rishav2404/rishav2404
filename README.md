@@ -91,10 +91,11 @@
 <img align="right" alt="Coding" width="250" src="http://drive.google.com/uc?export=view&id=1rXSKwkGTWmjUuyh4_UYyxLM_yMVgFjN5">
 
 ### Areas of work  🚀
-- **Android Development:** Building seamless, high-performance native applications with Kotlin and React Native.  
-- **Web Applications:** Developing scalable web platforms using MongoDB, Express.js, React, Node.js, and FastAPI.  
+- **App Development:** Building seamless, high-performance native applications with Kotlin and React Native.  
+- **Web Applications:** Developing scalable web platforms using Express.js, React, Node.js, Springboot various SQL and NoSQL DBs and FastAPI.  
 - **Backend Engineering:** Architecting secure, optimized, and maintainable APIs.  
-- **Cloud & DevOps:** Deploying resilient systems on Google Cloud, AWS and Azure with Serverless/Dockerized CI/CD pipelines.  
+- **Cloud & DevOps:** Deploying resilient systems on Google Cloud, AWS and Azure with Serverless/Dockerized CI/CD pipelines, utilizing various cloud services.
+- **Data:** Designing and implementing robust data pipelines using Kafka and BigQuery, enabling real-time ingestion.
 
 **Open to discussions on:** 💡
 > Distributed backend architectures · Cloud-native design · AI-driven automation · Secure API engineering
