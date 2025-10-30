@@ -14,10 +14,10 @@
 
 
 
-- 💼 I’m a **Software Engineer** with a strong focus on backend systems, scalable architectures, and intelligent integrations.  
-- 💻 Core competencies: **MERN Stack, FastAPI, Kotlin, Cloud Deployments, DevOps, Generative AI Integrations, and Databases.**  
-- 📬 Reach me at **rishavsaha24042003@gmail.com**, connect on [**LinkedIn**](https://www.linkedin.com/in/rishav24), explore my [**Linktree**](https://linktr.ee/rishav24), or visit my [**Portfolio**](https://rishavsahaa.netlify.app).  
-- 📄 [**Resume**](https://drive.google.com/file/d/1yJO-gtWEIrO9AVTUvIFbG-HgUtSkhSp_/view)
+- I’m a **Software Engineer** with a strong focus on backend systems, scalable architectures, and intelligent integrations.  
+- Core competencies: **MERN Stack, Java Springboot, FastAPI, Kotlin, Cloud Deployments, DevOps, Generative AI Integrations, and Databases.**  
+- Reach me at **rishavsaha24042003@gmail.com**, connect on [**LinkedIn**](https://www.linkedin.com/in/rishav24), explore my [**Linktree**](https://linktr.ee/rishav24), or visit my [**Portfolio**](https://rishavsahaa.netlify.app).  
+- [**Resume**](https://drive.google.com/file/d/1yJO-gtWEIrO9AVTUvIFbG-HgUtSkhSp_/view)
 
 
 
