@@ -14,17 +14,17 @@
 
 
 
-- I’m a **Software Engineer** with a strong focus on backend systems, scalable architectures, and intelligent integrations.  
-- Core competencies: **MERN Stack, Java Springboot, FastAPI, Kotlin, Cloud Deployments, DevOps, Generative AI Integrations, and Databases.**  
+- I’m a **Software Engineer** with a strong focus on backend systems.  
+- Core competencies: **Rust, Java Springboot, FastAPI, Kotlin, Cloud Deployments and Databases.**  
 - Reach me at **rishavsaha24042003@gmail.com**, connect on [**LinkedIn**](https://www.linkedin.com/in/rishav24), explore my [**Linktree**](https://linktr.ee/rishav24), or visit my [**Portfolio**](https://rishavsahaa.netlify.app).  
 - [**Resume**](https://drive.google.com/file/d/1yJO-gtWEIrO9AVTUvIFbG-HgUtSkhSp_/view)
 
 
 
-<!-- in your header -->
+<!-- in header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<!-- in your body -->
+<!-- in body -->
 
 ### Connect with Me 🤝 
 <p align="left">
@@ -40,21 +40,19 @@
 
 ### Languages & Tools  ⚙️
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40"/>
+    <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
     <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
-    <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
-    <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40"/>
     <img width="10" />
@@ -76,19 +74,13 @@
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/>
     <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
-    <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40"/>
-    <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40"/>
-    <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40"/>
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="40"/>
     <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>
     <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40"/>
     <img width="10" />
 </p>
 
@@ -96,14 +88,13 @@
 <img align="right" alt="Coding" width="250" src="http://drive.google.com/uc?export=view&id=1rXSKwkGTWmjUuyh4_UYyxLM_yMVgFjN5">
 
 ### Areas of work  🚀
-- **App Development:** Building seamless, high-performance native applications with Kotlin and React Native.  
-- **Web Applications:** Developing scalable web platforms using Express.js, React, Node.js, Springboot various SQL and NoSQL DBs and FastAPI.  
-- **Backend Engineering:** Architecting secure, optimized, and maintainable APIs.  
+- **Flight/Drones Management Systems:** Building seamless, high-performance systems with Flight/ UAVs.    
+- **Backend Engineering:** Architecting secure, optimized, and maintainable backend servers and APIs.  
 - **Cloud & DevOps:** Deploying resilient systems on Google Cloud, AWS and Azure with Serverless/Dockerized CI/CD pipelines, utilizing various cloud services.
 - **Data:** Designing and implementing robust data pipelines using Kafka and BigQuery, enabling real-time ingestion.
 
 **Open to discussions on:** 💡
-> Distributed backend architectures · Cloud-native design · AI-driven automation · Secure API engineering
+> IoT  · Drones · Distributed backend architectures · Cloud-native design · AI-driven automation · Secure API engineering 
 
 ---
 
