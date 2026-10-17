@@ -14,8 +14,8 @@
 
 
 
-- I’m a **Software Engineer** with a strong focus on backend systems.  
-- Core competencies: **Rust, Java Springboot, FastAPI, Kotlin, Cloud Deployments and Databases.**  
+- I’m a **Software Engineer** with a strong focus on IoT and backend systems.  
+- Core competencies: **Iot, Rust, JS/TS stacks, Java Springboot, Infrastructure.**  
 - Reach me at **rishavsaha24042003@gmail.com**, connect on [**LinkedIn**](https://www.linkedin.com/in/rishav24), explore my [**Linktree**](https://linktr.ee/rishav24), or visit my [**Portfolio**](https://rishavsahaa.netlify.app).  
 - [**Resume**](https://drive.google.com/file/d/1yJO-gtWEIrO9AVTUvIFbG-HgUtSkhSp_/view)
 
@@ -94,17 +94,32 @@
 - **Data:** Designing and implementing robust data pipelines using Kafka and BigQuery, enabling real-time ingestion.
 
 **Open to discussions on:** 💡
-> IoT  · Drones · Distributed backend architectures · Cloud-native design · AI-driven automation · Secure API engineering 
+> IoT  · Drones · Distributed backend architectures · Cloud-native/ Cloud Agnostic design · AI-driven automation · Secure API engineering 
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics 📊
+
 <!-- GRAPHS -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishav2404&hide_title=true&layout=compact&card_width=1000&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false"
-        height="200" alt="stats graph" />
-            <!-- <img src="https://streak-stats.demolab.com/?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=5"
-        height="200" alt="streak graph" /> -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rishav2404&hide_title=false&layout=compact&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav2404&layout=compact&langs_count=8&hide=python,jupyter%20notebook,html,css,scss&theme=blue-green&hide_border=true"
+    width="49%"
+    alt="Top Languages"
+  />
+  
+  <!--
+  <img
+    src="https://streak-stats.demolab.com/?user=rishav2404&locale=en&mode=weekly&layout=compact&card_width=1200&theme=blue-green&hide_border=false&border_radius=5"
+    height="200"
+    alt="GitHub Streak"
+  />
+  -->
 </div>
 
 
